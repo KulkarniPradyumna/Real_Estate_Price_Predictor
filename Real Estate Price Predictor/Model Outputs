@@ -1,0 +1,13 @@
+Outputs from different models
+
+1: Desicion Tree Regression
+    Mean :  4.264918395378825
+    Standard Deviation :  0.8797579948712014
+    
+2: Linear REgression
+    Mean :  5.037527093894796
+    Standard Deviation :  1.0554869438228376
+    
+3: Random Forest Regression
+    Mean :  3.3542634117008285
+    Standard Deviation :  0.6943092305363989
